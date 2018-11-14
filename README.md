@@ -1,4 +1,4 @@
 # HelloWorld
-Start my GitHub!!!!!!
+Start my GitHub!
 
 First code on GitHub!!!!
