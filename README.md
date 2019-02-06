@@ -1,5 +1,5 @@
 # HelloWorld
-# <font color=#DC143C>大年初一，大家新年吉祥！</font>
+# <font color=#DC143C>大年初二，大家新年快乐！</font>
 
 # 世界上最好的git教程
 # 由浅入深结合例子讲解git是个什么东西和怎么用
