@@ -1,5 +1,5 @@
 # HelloWorld
-# <font color=#DC143C>情人节快乐！</font>
+# <font color=#DC143C>昨天喝了酒，今天头晕没写多少代码</font>
 
 # 世界上最好的git教程
 # 由浅入深结合例子讲解git是个什么东西和怎么用
