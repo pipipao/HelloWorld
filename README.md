@@ -1,6 +1,10 @@
 # HelloWorld
 
-# 怪天怪地不如怪自己太菜，我是一只又懒又菜的狍子，狍子要努力了。
+# It's been a long time I update this daily, haha
+# Yeah I use this as a daily, these days are really tough, nearly full arragment.
+# Leatly it's much brtter, I finally have my free time, emmmm, to be honest I just have some fun and didn't do any coding.
+# I bought my girlfriend a NS switch and 4 games, they cost me 2750, but my girlfriend is happy, so it worthy.
+# Life goes on.
 # 自动化专业真的是魔鬼专业！！！！！！！
 # 由浅入深结合例子讲解git是个什么东西和怎么用
 ## https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
