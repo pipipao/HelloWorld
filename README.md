@@ -1,5 +1,6 @@
 # HelloWorld
 # Hi, my name is Du, I love coding!
+# Life is so hard
 # 嗷呜！
 # 我太难了
 # 难啊
