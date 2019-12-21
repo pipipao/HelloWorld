@@ -1,6 +1,7 @@
 # HelloWorld
 # Hi, my name is Du, I love coding!
 # Life is so hard
+# I found python is very different from java in many detials
 # 嗷呜！
 # 我太难了
 # 难啊
