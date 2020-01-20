@@ -1,6 +1,6 @@
 # HelloWorld
 # Hi, my name is Du, I love coding!
-# Life is so hard
+# I practiced my guitar these days, it's really fun!
 # I found python is very different from java in many detials
 # 嗷呜！
 # 我太难了
